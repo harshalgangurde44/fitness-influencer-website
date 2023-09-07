@@ -1,0 +1,13 @@
+.video-card {
+  width: 300px;
+  border: 1px solid black;
+}
+
+.video-card video {
+  width: 100%;
+  height: 160px;
+}
+
+.metadata {
+  padding: 10px;
+}
